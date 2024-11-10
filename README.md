@@ -1,5 +1,5 @@
 # Granny's Kitchen - Foley Sounds Granular Synthesis
-## CMLS - HW#1, Group 3: La Lobby
+## CMLS - HW#1, Group 3
 
 <p>
   The goal of the assignment was the creation of foley sounds by means of granular synthesis in the SuperCollider environment. The synthesis was implemented along
