@@ -22,4 +22,4 @@
   The GUI that has been designed for the assignment is shown in the figure. The GUI is divided in four vertical sections, one for each of the synthesized sounds, and designed to resemble a kitchen top - an oven, specifically. The "Play" starts the selected sound playback, while the sliders allow the user to control the volume and the panning of the played sound. The square corresponding to the oven door is the plot of the stereo sound (left and right channel) either in the time domain or in the frequency domain. The yellow button is deputed to switch the domain of representation of the sound. The two rows of knobs control the sound parameters that are customizable by the user: the first row controls the granular synthesis parameters, while the second contains the reverb controls.
 </p>
 
-<h4> You can check out a demo video for the application in the file list above! </h4>
+<h3> You can check out a demo video for the application in the file list above! </h3>
