@@ -23,3 +23,6 @@
 </p>
 
 <h3> You can check out a demo video for the application in the files above! </h3>
+
+### Group members
+Nicolò Chillè, Rocco Scarano, Enrico Dalla Mora, Federico Caroppo
