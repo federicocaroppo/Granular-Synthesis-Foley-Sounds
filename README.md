@@ -1,4 +1,4 @@
-# Granny's Kitchen - Foley Sounds Granular Synthesis
+# Granny's Kitchen - Foley Sounds Granular Synthesis 
 ## CMLS - HW#1, Group 3
 
 <p>
